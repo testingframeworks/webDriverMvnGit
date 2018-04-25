@@ -26,7 +26,7 @@ public class LoginTest {
 		System.out.println("Test Executed successfully");
 		driver.close();
 		System.out.println("Testing Git");
-		
+		System.out.println("Testing 2nd time to check authentication");
 	}
 	
    @Test
