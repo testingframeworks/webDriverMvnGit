@@ -24,6 +24,8 @@ public class LoginTest {
 	@AfterMethod
 	public void afterMet(){
 		System.out.println("Test Executed successfully");
+		driver.close();
+		System.out.println("Testing Git");
 		
 	}
 	
