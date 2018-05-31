@@ -152,8 +152,8 @@ public class TestBase {
 
 	@AfterSuite
 	public void tearDown() {
-		// driver.close();
-		// log.info("Driver closed successfully");
+		 driver.close();
+		 log.info("Driver closed successfully");
 
 	}
 
